@@ -80,6 +80,7 @@ rotated_list2 = rotate_list(my_list, 3)
 print("List after rotating 3 times to the right:", rotated_list2)
 
 print("\n")
+
 #--------------------------------------------------------------
 
 # Manages the player's inventory.
